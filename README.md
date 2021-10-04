@@ -6,6 +6,7 @@ Files found here correspond to the articles written on my medium. If you are int
 God Bless, and happy trading!
 ---
 
+# Article Summaries
 **Ten Cap**: Valuation technique to assess owner earnings, and calculates yearly rate of ROI. A value of >10% is required by Munger and Buffett.
                         $\[frac{Cash from Operation - Cap Ex}{Market Cap}$
 
