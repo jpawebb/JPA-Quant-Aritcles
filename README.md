@@ -4,6 +4,7 @@ JPA-Quant-Articles https://medium.com/jpa-quant-articles
 Files found here correspond to the articles written on my medium. If you are interested in reading any of these articles please visit my medium above.
 
 God Bless, and happy trading!
+---
 
 **Ten Cap**: Valuation technique to assess owner earnings, and calculates yearly rate of ROI. A value of >10% is required by Munger and Buffett.
                         $\[frac{Cash from Operation - Cap Ex}{Market Cap}$
