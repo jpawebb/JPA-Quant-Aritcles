@@ -7,7 +7,7 @@ God Bless, and happy trading!
 
 # Article Summaries
 **Ten Cap**: Valuation technique to assess owner earnings, and calculates yearly rate of ROI. A value of >10% is required by Munger and Buffett.
-<img src="https://render.githubusercontent.com/render/math?math=$frac{Cash from Operation - Cap Ex}{Market Cap}$">
+<img src="https://render.githubusercontent.com/render/math?math=$\frac{Cash from Operation - Cap Ex}{Market Cap}$">
                         `$frac{Cash from Operation - Cap Ex}{Market Cap}$`
 
 **Phil Town**: Valuation technique, often used as "_Real Estate Cap Rate_". In the case of a stock:
